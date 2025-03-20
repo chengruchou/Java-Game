@@ -1,5 +1,0 @@
-Dog is the winner (Wed Jun 12 01:17:46 CST 2024)
-Dog is the winner (Wed Jun 12 01:21:30 CST 2024)
-Cat is the winner (Wed Jun 12 01:25:06 CST 2024)
-Cat is the winner (Wed Jun 12 01:37:18 CST 2024)
-Cat is the winner (Wed Jun 12 01:39:31 CST 2024)
